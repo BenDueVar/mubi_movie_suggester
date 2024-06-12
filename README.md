@@ -5,3 +5,6 @@ As human taste can be sometimes complex (eg. I may like a movie of a director an
 I created a movie recommender using human-made playlists.
 
 (https://www.mubi.com/)
+
+Notes:
+- Prototype includes the code for Streamlit application
